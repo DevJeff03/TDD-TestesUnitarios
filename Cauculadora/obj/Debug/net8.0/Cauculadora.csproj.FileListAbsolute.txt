@@ -1,0 +1,14 @@
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\bin\Debug\net8.0\Cauculadora.exe
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\bin\Debug\net8.0\Cauculadora.deps.json
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\bin\Debug\net8.0\Cauculadora.runtimeconfig.json
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\bin\Debug\net8.0\Cauculadora.dll
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\bin\Debug\net8.0\Cauculadora.pdb
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.AssemblyInfoInputs.cache
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.AssemblyInfo.cs
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.dll
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\refint\Cauculadora.dll
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.pdb
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\Cauculadora.genruntimeconfig.cache
+C:\Users\Jefferson\source\repos\Cauculadora\Cauculadora\obj\Debug\net8.0\ref\Cauculadora.dll
